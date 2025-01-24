@@ -1,4 +1,4 @@
-# Note: DiwGay MaK Mak 
+# Note: E3 MaK Mak 
 
 ## MVC (Model-View-Controller)
 - Model = ตัวแปรที่เก็บข้อมูล 
